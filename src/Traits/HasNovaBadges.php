@@ -1,6 +1,6 @@
 <?php
 
-namespace Atin\NovaBadges\Traits;
+namespace Atin\LaravelNovaBadges\Traits;
 
 trait HasNovaBadges
 {

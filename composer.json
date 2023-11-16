@@ -9,7 +9,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "NovaBadgesProvider"
+        "Atin\\LaravelNovaBadges\\NovaBadgesProvider"
       ]
     }
   },
